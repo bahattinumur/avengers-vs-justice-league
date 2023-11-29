@@ -1,0 +1,41 @@
+.img-slider {
+  height: 92vh;
+  margin-top: 0;
+}
+body {
+  font-family: "Raleway", sans-serif;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 70px;
+  padding-bottom: 0px;
+}
+.navbar-brand {
+  font-weight: 700;
+  font-size: large;
+}
+.navbar-brand-col {
+  color: chocolate;
+  font-weight: 700;
+}
+.about {
+  background-color: #f2f2f2;
+}
+.under-line {
+  border: none;
+  border-top: 3px solid #343a40;
+  max-width: 250px;
+  margin: 25px auto;
+}
+
+.card-item > img:hover {
+  opacity: 0.8;
+}
+
+.social-icons .icons {
+  display: inline-block !important;
+  margin: 0 10px !important;
+}
+
+.social-icons {
+  padding-bottom: 15px;
+}
